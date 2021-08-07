@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 <!--- ⚡ Fun fact: ...-->
 
+- 🔗 Links: 
+  - [Email](mailto:akshar.premnath@gmail.com?subject=GitHub:%20 'Email')
+  - [Kaggle](https://www.kaggle.com/aksharpremnath 'Kaggle')
+  - [Scratch](https://scratch.mit.edu/users/AksharPremnath/ 'Scratch')
