@@ -5,7 +5,7 @@
 * [Code of Conduct](#code-of-conduct)
 * [KISS](#kiss)
 
-## Code of Conduct
+## Code of Conduct
 
 Let the [Code of Conduct](https://github.com/Akshar-Premnath/Akshar-Premnath/blob/main/CODE_OF_CONDUCT.md) guide you.
 
