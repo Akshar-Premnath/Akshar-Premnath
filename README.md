@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
-- 📫 How to reach me: [akshar.premnath@gmail.com](mailto:akshar.premnath@gmail.com?subject=GitHub:%20 'Email me!')
+- 📫 How to reach me: [akshar.premnath@gmail.com](mailto:akshar.premnath@gmail.com?subject=GitHub%3A%20 'Email me!')
 - 😄 Pronouns: he/him
 <!--- ⚡ Fun fact: ...-->
 
 - 🔗 Links: 
-  - [Email](mailto:akshar.premnath@gmail.com?subject=GitHub:%20 'Email')
+  - [Email](mailto:akshar.premnath@gmail.com?subject=GitHub%3A%20 'Email')
   - [Kaggle](https://www.kaggle.com/aksharpremnath 'Kaggle')
   - [Scratch](https://scratch.mit.edu/users/AksharPremnath/ 'Scratch')
