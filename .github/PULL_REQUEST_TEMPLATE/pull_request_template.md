@@ -1,4 +1,4 @@
-<!-- Co-authored-by: name <name@example.com> --> <!-- If the pull request was co-authored, uncomment the co-author line and fill out the required parameters (make a co-author line for each co-author excluding yourself -->
+<!-- Co-authored-by: name <name@example.com> --> <!-- If the pull request was co-authored, uncomment the co-author line and fill out the required parameters (make a co-author line for each co-author excluding yourself) -->
 Fixes: <!-- Set to 'N/A' if the pull request doesn't fix any issues -->
 
 # Proposed changes <!-- What changes were made? -->
