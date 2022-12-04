@@ -19,3 +19,4 @@ Here are some ideas to get you started:
   - [Email](mailto:akshar.premnath@gmail.com?subject=GitHub%3A%20 'Email')
   - [Kaggle](https://www.kaggle.com/aksharpremnath 'Kaggle')
   - [Scratch](https://scratch.mit.edu/users/AksharPremnath/ 'Scratch')
+  - [Scratch (alt)](https://scratch.mit.edu/users/-akshar-/ 'Scratch')
