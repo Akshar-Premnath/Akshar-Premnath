@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 💻 I know Bash, HTML, PowerShell, Python, Scratch, Visual Basic .NET & Zsh
+- 💻 I know Visual Basic .NET, Scratch, Python & HTML 
 <!--- 🔭 I’m currently working on ...-->
 <!--- 🌱 I’m currently learning ...-->
 <!--- 👯 I’m looking to collaborate on ...-->
